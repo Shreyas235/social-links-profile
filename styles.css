@@ -78,3 +78,9 @@ a:hover {
     color: black;
     font-weight: 500;
 }
+
+@media (max-width: 400px) {
+    .container {
+        width: 305px;
+    }
+}
